@@ -15,12 +15,13 @@ Developed a dynamic and user-friendly expense tracker application using the MERN
 </br>
 </br>
 </br>
-![pic5](https://github.com/Soul-8789/Expense_Tracker/assets/102282026/e89500b2-3e7e-44f8-b3f0-22523c2fb603)
-</br>
-</br>
-</br>
-</br>
-#Expent Page which can take input and display recent Expense in top 
-</br>
-</br>
 ![pic4](https://github.com/Soul-8789/Expense_Tracker/assets/102282026/fe27f7f2-300c-4017-8d16-545df02a61ab)
+</br>
+</br>
+</br>
+</br>
+#Expense Page which can take input and display recent Expense in top 
+</br>
+</br>
+
+![pic5](https://github.com/Soul-8789/Expense_Tracker/assets/102282026/e89500b2-3e7e-44f8-b3f0-22523c2fb603)
